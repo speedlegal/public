@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+npm run build
+gsutil rsync -R build/ gs://uploader.speedlegal.io

@@ -13,10 +13,10 @@
 
 # Question
 
-1. We have problem here when run the ```docker-compose up```, can you make it work again like in the image?
+1. We have an issue when we run the ```docker-compose up```, can you make it work again like in the image below?
 ![](working_app.png)
 
-2. Can you add another function of download for the app?
+2. Can you add another download function for the app?
 
 
 
